@@ -19,6 +19,14 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="medialog.controlpanel uninstall"
+      directory="profiles/uninstall"
+      description="Uninstalls the medialog.controlpanel package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
     <!-- Control panel -->
   <browser:page
   	name="medialog_controlpanel"
