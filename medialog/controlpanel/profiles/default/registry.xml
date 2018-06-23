@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
-
 <registry>
- <records interface="medialog.controlpanel.interfaces.IMedialogControlpanelSettings">
+    <records interface="medialog.controlpanel.interfaces.IMedialogControlpanelSettings">
  
- </records>
+    </records>
 </registry>
  
