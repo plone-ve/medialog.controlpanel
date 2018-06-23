@@ -1,6 +1,14 @@
 Changelog
 =========
 
+
+1.1.3 (unreleased)
+------------------
+
+- Enabled the i18n support [macagua]
+
+
+
 1.1.2 (03.30.2016)
 -------------------
 
